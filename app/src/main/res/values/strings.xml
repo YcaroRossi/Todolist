@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="tv_title_text">Tarefas</string>
+    <string name="hint_newtask_title">Título da tarefa</string>
+    <string name="hint_newtask_date">Data</string>
+    <string name="hint_newtask_time">Hora</string>
+    <string name="btn_newtask_cancel">Cancelar</string>
+    <string name="label_newtask">Criar Tarefa</string>
+    <string name="label_btn_newtask">Nova tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="label_empty_tasks">Ops! Você não possui tarefas agendadas.</string>
+</resources>
